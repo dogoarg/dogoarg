@@ -2,7 +2,7 @@
 
 hola mi nombre es mariano!
 
-Soy un programador fullstack, orientado al diseñp front end y creacion de material visual.
+Soy un programador fullstack, orientado al diseño front end y creacion de material visual.
 
 Continuamente aprendiendo, mucha disciplina y constancia para mejorar siempre... Amante de los desafios!
 
